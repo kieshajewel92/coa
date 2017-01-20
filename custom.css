@@ -42,7 +42,7 @@ input#saveForm {
     -moz-border-radius: 3px !important;
     border-radius: 3px !important;
 }
-input.text, input.search, textarea.textarea {
+.wufoo input.text, .wufoo input.search, .wufoo textarea.textarea {
     /* border-top: 1px solid #7c7c7c; */
     /* border-left: 1px solid #c3c3c3; */
     /* border-right: 1px solid #c3c3c3; */
