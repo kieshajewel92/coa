@@ -1,0 +1,60 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : 
+ Author : 
+ URL : http://
+
+ Last Updated : 
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+body {
+    font-family: proxima-nova, sans-serif;
+}
+label.desc, legend.desc {
+    font-size: 16px;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 600;
+}
+.info h2 {
+    font-weight: normal;
+    font-size: 160%;
+    margin: 0 0 5px 0;
+    clear: left;
+    color: #0069b3;
+}
+#lola tbody td {
+    border-bottom: 1px solid #ffffff;
+    padding: 0 0 7px 0;
+}
+table#run span, table#run th {
+    color: #ffffff !important;
+}
+input#saveForm {
+    padding: 15px 25px !important;
+    width: 100px;
+    color: #ffffff;
+    font-family: proxima-nova, sans-serif;
+    background-color: #0069b3;
+    border: none;
+    border-style: none;
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    border-radius: 3px !important;
+}
+input.text, input.search, textarea.textarea {
+    /* border-top: 1px solid #7c7c7c; */
+    /* border-left: 1px solid #c3c3c3; */
+    /* border-right: 1px solid #c3c3c3; */
+    /* border-bottom: 1px solid #ddd; */
+    height: 25px;
+    border: 1px solid #e8e8e8;
+    border-style: solid;
+    background: #f5f6fb;
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    border-radius: 3px !important;
+}
+form li.focused {
+    background-color: #c5d6e2;
+}
